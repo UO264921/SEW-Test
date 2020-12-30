@@ -6,6 +6,3 @@ live_loop :osc do
   print "Y: " + nv[1].to_s
   print "Size: " + nv[2].to_s
 end
-
-
-/////////////////////////////////////////////
